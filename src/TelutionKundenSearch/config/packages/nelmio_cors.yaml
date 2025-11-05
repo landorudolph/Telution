@@ -1,0 +1,6 @@
+nelmio_cors:
+  defaults:
+    allow_origin: ['*']
+    allow_methods: ['GET', 'PATCH']
+    allow_headers: ['Content-Type']
+    max_age: 3600
