@@ -1,0 +1,21 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Build-Dateien (Java/Maven/Gradle)
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs und temporäre Dateien
+*.log
+*.tmp
+temp/
+
+# Systemdateien
+.DS_Store
+Thumbs.db
